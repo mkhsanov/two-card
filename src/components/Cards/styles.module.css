@@ -1,0 +1,35 @@
+.cardContainer {
+    position: relative;
+    margin: 5px 20px;
+    width: 100px;
+    height: 122px;
+}
+
+.card {
+    width: 90px;
+    height: 112px;
+    border: 5px solid transparent;
+    border-radius: 5px;
+}
+
+.color0 {
+    border-color: #f7b2b7;
+}
+
+.color1 {
+    border-color: #7f2982;
+}
+
+.color2 {
+    border-color: #8f5c38;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.winnerCards {
+    background:rgba(255,255,255,0.3);
+}

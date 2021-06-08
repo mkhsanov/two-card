@@ -1,0 +1,8 @@
+.hands {
+    display: flex;
+    flex-direction: column;
+}
+
+.winnerHand {
+    background:rgba(255,255,255,0.3);
+}
